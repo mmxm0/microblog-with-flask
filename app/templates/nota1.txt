@@ -1,0 +1,9 @@
+*Descrever os desafios do Cliente
+*Definir SOA
+*Explicar o diferencial de SOA e o que torna essa solução baseada em serviço possivel atualmente;
+*Listar os beneficios de SOA para os negócios e a TI
+*Explicar porque SOa é importante para a Accenture
+*Definir As Especificações dos Frameworks de Serviços WEB 
+*Descrever os conceitos chave de SOA
+* Indentificar os impactos de SOA nas organizações e na gestão de TI
+* Descrever Considerações sobre Testes SOA
